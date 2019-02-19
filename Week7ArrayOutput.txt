@@ -1,0 +1,6 @@
+Unsorted Integers	  Unsorted Floats	 Unsorted Strings
+       89	             10.22	             folly
+       80	             10.21	             green
+       99	             12.03	            horror
+       88	             13.57	          hesitate
+       40	             14.54	             poppy
